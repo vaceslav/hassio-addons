@@ -14,4 +14,4 @@ ARG BUILD_REF
 ARG BUILD_VERSION
 
 WORKDIR /etc/openvpn
-ENTRYPOINT ["openvpn", "--config", "/openvpnclient/client.ovpn"]
+ENTRYPOINT ["openvpn", "--config", "/openvpn-client/client.ovpn"]

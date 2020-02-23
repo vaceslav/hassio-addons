@@ -11,5 +11,5 @@
     "hassio_role": "default",
     "privileged": ["NET_ADMIN"],
     "devices": ["/dev/net/tun:/dev/net/tun:rwm"],
-    "map": ["openvpn-client:rw"]
+    "map": ["openvpnclient:rw"]
   }

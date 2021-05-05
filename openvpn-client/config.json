@@ -1,6 +1,6 @@
 {
     "name": "Openvpn-Client",
-    "version": "dev",
+    "version": "1.0.1",
     "slug": "openvpn-client",
     "description": "Open Vpn client for HASSIO",
     "url": "https://github.com/vaceslav/hassio-addons",

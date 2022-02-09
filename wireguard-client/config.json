@@ -11,7 +11,7 @@
     "hassio_api": true,
     "hassio_role": "default",
     "privileged": ["NET_ADMIN", "SYS_MODULE"],
-    "map": ["config"],
+    "map": ["/lib/modules", "config"],
     "options": {},
     "schema": {}
   }

@@ -4,7 +4,8 @@ FROM ${BUILD_FROM}
 
 
 RUN apk --no-cache add \
-    wireguard-tools
+    wireguard-tools\
+    openresolv
 
 
 # Build arguments

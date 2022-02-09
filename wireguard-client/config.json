@@ -1,6 +1,6 @@
 {
     "name": "Wireguard-Client",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "slug": "wireguard-client",
     "description": "Wireguard vpn client for HASSIO",
     "url": "https://github.com/vaceslav/hassio-addons",
